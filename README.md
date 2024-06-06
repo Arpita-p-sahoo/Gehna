@@ -1,2 +1,2 @@
-#Gehna is a E-Commerce jwellery site
+#Gehna is a E-Commerce jewelry site
 People can choose the ornaments digitally
