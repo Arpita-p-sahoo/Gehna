@@ -1,0 +1,12 @@
+.bg-gray-800 {
+    background-color: transparent;
+}
+
+.bg-gray-800 a {
+    color: white;
+    text-decoration: none;
+}
+
+.bg-gray-800 a:hover {
+    text-decoration: underline;
+}
